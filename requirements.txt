@@ -1,0 +1,11 @@
+apache-airflow==2.7.1
+pandas
+requests
+beautifulsoup4
+psycopg2-binary
+sqlalchemy
+python-dotenv
+pytest
+pytest-mock
+numpy
+scikit-learn
